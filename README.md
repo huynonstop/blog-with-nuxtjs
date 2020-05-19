@@ -3,8 +3,8 @@
 > My cool Nuxt.js project
 > Live demo:
 
-- Heroku: [](https://blog-nuxt-udemy.herokuapp.com)
-- Firebase: [](https://nuxt-blog-ce651.firebaseapp.com)
+- Heroku: [Here](https://blog-nuxt-udemy.herokuapp.com)
+- Firebase: [Here](https://nuxt-blog-ce651.firebaseapp.com)
 
 ## Build Setup
 
