@@ -109,7 +109,7 @@ const createStore = () => {
                     if (!tokenIdCookie) return
                     tokenId = tokenIdCookie.split('=')[1]
                     expiresIn = cookies.find(c => c.trim().startsWith("expiresIn=")).split('=')[1]
-                } else {
+                } else if(process.client) {
                     tokenId = localStorage.getItem('tokenId')
                     expiresIn = localStorage.getItem('expiresIn')
                 }

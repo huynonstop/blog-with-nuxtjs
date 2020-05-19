@@ -1,6 +1,10 @@
 # blog-with-nuxt
 
 > My cool Nuxt.js project
+> Live demo:
+
+- Heroku: [](https://blog-nuxt-udemy.herokuapp.com)
+- Firebase: [](https://nuxt-blog-ce651.firebaseapp.com)
 
 ## Build Setup
 

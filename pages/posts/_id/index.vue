@@ -25,6 +25,11 @@
 import axios from 'axios'
 export default {
     asyncData(context) {
+        if(context.payload) {
+            return {
+                loadedPost: content.payload.postData
+            }
+        }
         return axios.get(`${process.env.baseUrl}/posts/${context.params.id}.json`)
             .then(({data}) => {
                 return {
