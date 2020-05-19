@@ -4,6 +4,8 @@
 
 > Live demo:
 
+Demo account: test@gmail.com - 123456
+
 - Heroku: [Here](https://blog-nuxt-udemy.herokuapp.com)
 - Firebase: [Here](https://nuxt-blog-ce651.firebaseapp.com)
 
