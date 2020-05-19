@@ -1,6 +1,7 @@
 # blog-with-nuxt
 
 > My cool Nuxt.js project
+
 > Live demo:
 
 - Heroku: [Here](https://blog-nuxt-udemy.herokuapp.com)
